@@ -1,0 +1,1 @@
+g++ main.cpp -o main -Wl,--stack=66060288
